@@ -1,0 +1,60 @@
+projectName: >-
+  How to Improve <SEO_metric> for <cybersecurity_product_type> Websites in
+  <timeframe>
+jsonFilePath: ./input.json
+baseUrl: sun.com
+portalHeading: 'GrackerAI: Elevate Your Cybersecurity Strategy'
+portalDescription: >-
+  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
+  prospects, demonstrate expertise, and fuel expansion through customized,
+  data-backed content strategies.
+portalTitle: GrackerAI for Cybersecurity SaaS
+searchPlaceholder: Search for solutions...
+useAlphabetsCategory: true
+homeLink: sun.com
+logoLink: /
+ctaText: Get started — it's free
+aboutLink: https://gracker.ai/about/
+productsLink: https://gracker.ai/products/
+logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: '&copy; Copyright 2024, Gracker. Made with <3 in San Francisco'
+faviconUrl: /favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#007bff'
+  secondaryColor: '#6c757d'
+  backgroundColor: '#f8f9fa'
+  textColor: '#212529'
+  accentColor: '#17a2b8'
+fonts:
+  - family: Bricolage Grotesque
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
